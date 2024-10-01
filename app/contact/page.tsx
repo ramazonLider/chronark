@@ -7,7 +7,7 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Instagram size={20} />,
-		href: "https://instagram.com/ergashedilafruz",
+		href: "https://instagram.com/ramazonLider200",
 		label: "Instagram",
 		handle: "@ramazon",
 	},
