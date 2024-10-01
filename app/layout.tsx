@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "Co-founder of unkey.dev and fouder of planetfall.io",
   openGraph: {
     title: "ramazonlider",
-    description: "Co-founder of unkey.dev and founder of planetfall.io",
+    description: "Co-founder of unkey.dev and fouder of planetfall.io",
     url: "https://ramazonlider.vercel.app/",
     siteName: "ramazonlider",
     images: [
