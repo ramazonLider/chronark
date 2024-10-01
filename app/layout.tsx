@@ -6,16 +6,15 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "ramazonlider",
+    template: "%s | ramazonlider.vercel.app",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
-    title: "chronark.com",
-    description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    title: "ramazonlider",
+    description: "Co-founder of unkey.dev and founder of planetfall.io",
+    url: "https://ramazonlider.vercel.app/",
+    siteName: "ramazonlider",
     images: [
       {
         url: "https://chronark.com/og.png",
